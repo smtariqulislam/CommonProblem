@@ -4,9 +4,7 @@
 
 
 
-/* Question: https://www.codechef.com/submit/HAPPYSTR
 
-*/
 
 #include<bits/stdc++.h>
 #include <string>
